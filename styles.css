@@ -930,6 +930,8 @@ section {
     width: 400px;
     cursor: pointer;
     transition: all 0.4s ease;
+    overflow-x:hidden;
+    overflow-y:hidden;
 }
 
 .playstore-content {
